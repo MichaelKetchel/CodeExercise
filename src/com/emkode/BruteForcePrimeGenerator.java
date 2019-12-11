@@ -19,6 +19,10 @@ public class BruteForcePrimeGenerator implements PrimeNumberGenerator{
         int lowVal = min(startingValue, endingValue);
         int highVal = max(startingValue, endingValue);
 
+        // If for some reason we're given a value lower than 2, bring it up to two.
+        if (lowVal < 2 )
+            lowVal = 2;
+
         List<Integer> primeNumbers = new LinkedList<>();
 
         for (int i = lowVal; i <= highVal; i++){
