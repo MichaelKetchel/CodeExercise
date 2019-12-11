@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-    <option name="MAIN_CLASS_NAME" value="com.emkode.Main" />
+    <option name="MAIN_CLASS_NAME" value="io.emkode.Main" />
     <module name="CodeExercise" />
     <extension name="coverage">
       <pattern>

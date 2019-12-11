@@ -1,4 +1,4 @@
-package com.emkode;
+package io.emkode;
 
 import java.util.*;
 
