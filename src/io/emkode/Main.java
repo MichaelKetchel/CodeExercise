@@ -11,7 +11,7 @@ import static java.lang.String.format;
 public class Main {
 
     public static void main(String[] args) {
-        BruteForcePrimeGenerator primeGenerator = new BruteForcePrimeGenerator();
+        PrimeNumberGenerator primeGenerator = new SievePrimeGenerator();
 
         // If args on command line, use those, otherwise ask.
         if(args.length > 0){
