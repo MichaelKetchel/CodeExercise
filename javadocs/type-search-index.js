@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.emkode","l":"BruteForcePrimeGenerator"},{"p":"com.emkode","l":"Main"},{"p":"com.emkode","l":"PrimeNumberGenerator"},{"p":"com.emkode","l":"SievePrimeGenerator"}]
